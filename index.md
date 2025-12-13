@@ -2,122 +2,62 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+# Ricardo Martins
+**SecDevOps Analyst & Platform Operations Engineer**
 
-[Link to another page](./another-page.html).
+> Experienced Cloud Engineer focusing on Infrastructure as Code, Security Compliance, and System Reliability. Proven track record of reducing vulnerability exposure by 40% and maintaining 90%+ compliance with SOC2/ISO27001 standards.
 
-There should be whitespace between paragraphs.
+---
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## 🛠 Technical Stack
 
-# Header 1
+### Cloud & Infrastructure
+* **AWS:** EC2, S3, Lambda, GuardDuty, CloudTrail, CodePipeline
+* **IaC:** Terraform (Scalable & Secure Deployments)
+* **Containers:** Docker, AWS ECS/EKS
+* **OS:** Linux (Vulnerability research & mitigation)
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+### Security & Compliance
+* **Tools:** Lacework, Snyk, Vanta, Aikido, SentinelOne
+* **Standards:** ISO27001, SOC2 Workflows
+* **Identity:** AWS IAM, Auth0
 
-## Header 2
+### Observability
+* **Monitoring:** Datadog, Kibana, Elasticsearch, CloudWatch
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+---
 
-### Header 3
+## 💼 Professional Experience
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+### Platform Operations Engineer @ Highbourne Group
+*02/2025 - Present | Remote*
+* Ensured reliability of production environments and distributed systems.
+* Enhanced system observability using **Datadog, Kibana, and Elasticsearch**.
+* Performed deep-dive root cause analysis on recurring incidents.
+* Managed containerized applications on **Kubernetes**.
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+### SecDevOps Analyst @ Essentia Analytics
+*01/2023 - 12/2024 | London*
+* **Key Achievement:** Achieved a **40% reduction** in vulnerability exposure.
+* **Compliance:** Maintained **90%+ compliance** with SOC2 and ISO27001 standards.
+* **Security:** Strengthened cloud posture using AWS GuardDuty, CloudTrail, and Lacework.
+* **Automation:** Automated CI/CD pipelines using **AWS CodePipeline**.
 
-#### Header 4
+### Platform & Application Support Engineer @ Essentia Analytics
+*01/2022 - 01/2023 | London*
+* Investigated and deployed fixes using Agile CI/CD processes.
+* Analyzed root causes in **Python** and AWS infrastructure.
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+---
 
-##### Header 5
+## 🎓 Education
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+**BSc (Honours) Computing & IT With Business**
+*The Open University | Capstone Project starting Feb 2026*
 
-###### Header 6
+---
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+## 🔗 Links
+* [GitHub Profile](https://github.com/strong90-source)
+* [LinkedIn](https://www.linkedin.com/in/ricardodossantosmartins)
+* [Credly Certifications](https://www.credly.com/users/ricardo-martins.e213f580)
