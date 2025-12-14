@@ -59,5 +59,5 @@ layout: default
 
 ## 🔗 Links
 * [GitHub Profile](https://github.com/strong90-source)
-* [LinkedIn](https://www.linkedin.com/in/ricardo-martins-b1aa75135)
+* [LinkedIn](https://www.linkedin.com/in/ricardo-martins-b1aa75135/)
 * [Credly Certifications](https://www.credly.com/users/ricardo-martins.e213f580)
